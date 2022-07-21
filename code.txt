@@ -1,2 +1,3 @@
 console.log("Hello Github！");
 console.log("Thanks！");
+console.log("People from master won't see this message！");
